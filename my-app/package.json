@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://wang7211401.github.io/webpack-demo-1/app/build",
+  "homepage": "https://wang7211401.github.io/webpack-demo/my-app/build",
   "dependencies": {
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
